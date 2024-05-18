@@ -5,7 +5,7 @@
 
 - 👨‍💻 Want to Know more About Me? 👉🏻 [Prathamesh's Portfolio](https://Prathamesh78.github.io) ❤️
 
-- 📫 How to reach me **prathameshs7810@gmail.com**
+- 📫 How to reach me **prathameshs7810@gmail.com** 📧
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
