@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh78&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh78" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://psawant6.wixsite.com/digital-portfolio](https://psawant6.wixsite.com/digital-portfolio)
+- 👨‍💻 All of my projects are available at [https://psawant6.wixsite.com/digital-portfolio](https://Prathamesh78.github.io)
 
 - 📫 How to reach me **prathameshs7810@gmail.com**
 
