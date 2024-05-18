@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh78&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh78" /> </p>
 
-- 👨‍💻 Want to Know more About Me 👉🏻 [Prathamesh's Portfolio](https://Prathamesh78.github.io) ❤️
+- 👨‍💻 Want to Know more About Me? 👉🏻 [Prathamesh's Portfolio](https://Prathamesh78.github.io) ❤️
 
 - 📫 How to reach me **prathameshs7810@gmail.com**
 
